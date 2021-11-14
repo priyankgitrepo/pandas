@@ -15,13 +15,18 @@ print(int(monday.temp))
 temp_con = int(monday.temp)
 temp = temp_con * 4
 
-print(temp)
+print(f"the temp is : {temp}")
 
 data_dict = {
     "students": ["Amy","James","Angela"],
     "scores": [76,56,65]
 }
-data = pandas.DataFrame(data_dict)
-data.to_csv("new_data.csv")
+data_1 = pandas.DataFrame(data_dict)
+data_1.to_csv("new_data.csv")
+
+monday_len = len(data[data.day == "Monday"])
+print(monday_len)
 
 
+#print(data[data.day == "Monday"])
+print(data[data.day == "Monday"])

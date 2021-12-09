@@ -19,7 +19,7 @@ pip install python3-venv
 python -m venv .mickys
 ```
 
-5.Activate virtual environment
+5.Activate virtual environment......it is a windows command
 ```bash
 .mickys\Scripts\activate.bat
 ```

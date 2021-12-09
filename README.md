@@ -9,3 +9,17 @@ pip install -r requirements.txt
 ```bash
 pip freeze
 ```
+
+3. installing python virtual environment
+```bash
+pip install python3-venv
+```
+4.Create virtual environment .mickys is the name of virtual environment we can give any name
+```bash
+python -m venv .mickys
+```
+
+5.Activate virtual environment
+```bash
+.mickys\Scripts\activate.bat
+```

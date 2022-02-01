@@ -28,3 +28,6 @@ python -m venv .mickys
 ```bash
 source .mickys/Scripts/activate
 ```
+
+![image](https://user-images.githubusercontent.com/83429764/152040566-638e39ec-9fcf-4a14-9371-b3f85f7629ae.png)
+

@@ -26,5 +26,5 @@ python -m venv .mickys
 
 6.Activate virtual environment......it is a git bash command
 ```bash
-source env/Scripts/activate
+source .mickys/Scripts/activate
 ```
